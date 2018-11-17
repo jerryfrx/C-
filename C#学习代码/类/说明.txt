@@ -1,0 +1,6 @@
+不添加关键字，默认类的访问级别是internal
+类成员的访问级别是private
+sealed关键字表示类不能被继承
+internal关键字表示在当前程序集里可以访问
+protected关键字把访问级别控制在继承链上
+private关键字把访问级别控制本类中
